@@ -24,5 +24,5 @@ async def on_message(message):
             await message.channel.send(content=text)
     
 
-bot.run("Njg2OTA5MTQ4NTQ1NDE3MjIy.XmeERA.fScSAVxVVaQBwbHbHwvqvo3fJNo")
+bot.run("token")
 keep_alive.keep_alive()
